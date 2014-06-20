@@ -1,0 +1,1193 @@
+Absorb Health
+Absorb Magicka
+Absorb Stamina
+Additional Werewolf Transformation
+Agent of Dibella
+Agent of Mara
+Ancano’s Sparks
+Ancestor’s Wrath
+Ancient Knowledge
+Animal Allegiance 1
+Animal Allegiance 2
+Animal Allegiance 3
+Animal Damage
+Apply Perk
+Armor – Dragonhide
+Armor – Ebony
+Armor – Iron
+Armor – Oak
+Armor – Stone
+Armor 30 Perk bonus
+Armor 50 Perk bonus
+Armor 70 Perk bonus
+Articulation
+AtronachFlameTrail
+AtronachFrost fx
+AtronachStormFX
+Aura Whisper
+Aura Whisper – Exterior
+Aura Whisper – Interior
+Avoid Death
+Backstab
+Bane of the Undead
+BaneUndeadBodyArtHolder
+Banish
+Banish – Damage Health
+Banish Summoned
+Banish/Command Daedra Push
+Battle Cry
+Beast Form
+Beloved – Master of the Mind
+Berserk
+Blank
+Bleeding
+Bleeding Damage
+Blind
+Blizzard
+Blizzard 100
+Blizzard 25
+Blizzard 65
+Blizzard Hazard 20
+Blizzard Hazard 30
+BlizzardBodyArtHolder
+Blood Thirst
+Boethiah’s Embrace
+Boethiah’s Shadow
+Bound Axe
+Bound Battleaxe FX
+Bound Bow
+Bound Bow FX
+Bound Sword
+Bound Sword FX
+Brelyna’s Practice Spell
+Briarheart Geis
+Briarheart Lifeforce
+Bromjunaar’s Mystery
+Burning
+Call Dragon Effect
+Call of the Wild
+Call Of The Wild 1
+Call Of The Wild 2
+Call Of The Wild 3
+Call Of Valor Visual FX
+Call Storm
+Calm
+Candlelight
+CG Dragon Storm Call
+CG Dragon Storm Call Self
+Chain Lightning
+Champion of the Night
+Channeling Beam
+Charm – Master of the Mind
+Chaurus effect
+Chaurus Poison
+Chaurus Spit
+Circle of Protection
+Circle of Vitality
+Clairvoyance
+Claws
+Clear Skies
+Clear Skies Effect 1
+Clear Skies Effect 2
+Clear Skies Effect 3
+Cold as the Dead
+Combat Vigor
+Command
+Command Animal
+Conjure Dragon Priest
+Conjure Dremora Lord
+Conjure Familiar
+Conjure Flame Atronach
+Conjure Flame Thrall
+Conjure Flaming Familiar
+Conjure Frost Atronach
+Conjure Frost Thrall
+Conjure Potent Flame Atronach
+Conjure Potent Flame Thrall
+Conjure Potent Frost Atronach
+Conjure Potent Frost Thrall
+Conjure Potent Storm Thrall
+Conjure Storm Atronach
+Conjure Storm Thrall
+Constant Damage Health
+Courage
+Courage – Master of the Mind
+Courage Secondary
+Cure Disease
+Cure Poison
+DA08 necro priest fx
+DA08 necro skeleton fx
+Damage Health
+Damage Health Regeneration
+Damage Lockpicking
+Damage Magicka
+Damage Magicka Regen
+Damage Magicka Regeneration
+Damage Stamina
+Damage Stamina Regen
+Damage Stamina Regeneration
+Dark Souls Dread Zombie
+Dark Souls Reanimate Corpse
+Dark Souls Revenant
+Dark Souls Zombie
+Dark SoulsDead Thrall
+Deep Freeze Paralyze
+Destroy Skull of Corruption
+Detect Life
+Detect Life Enemy Exterior
+Detect Life Enemy Interior
+Detect Life Friend Exterior
+Detect Life Friend Interior
+Detect Life FX Visuals
+Detect Undead Enemy Exterior
+Detect Undead Enemy Interior
+Detect Undead Friend Exterior
+Detect Undead Friend Interior
+Disarm
+Disarm 1
+Disarm 2
+Disarm 3
+Disintegrate
+Dismay Push Effect
+Dismaying Shout
+Dragon Ability giving them all damage bllod fx
+Dragon breath
+Dragon Damage
+Dragon Grounding
+Dragon Infusion
+Dragon Priest FX
+Dragonrend Effect – Prevent Flying
+Dragonrend Effect – Stagger
+Dragonslayer’s Blessing
+Drain Health
+Drain Magicka
+Drain Stamina
+Draugr Frost Cloak
+Draugr Glow Eyes
+Dreamsteal
+Drugged
+DualFlurry
+dunTrevas Spectral Arrow
+Dwarven Centurion FX
+Dwarven Sphere FX
+Dwarven Spider FX
+Ebony Blade Absorb Health
+Ebony Blade Alert
+Ebony Bladed Friendship
+Ebony Mail Muffle
+Ebony Mail Poison Damage
+Elemental Fury
+Elf Slayer
+Esbern’s Potion
+Eternal Spirit
+Ethereal
+Extra Pockets
+Faction – Kyne’s Peace
+Fade Other
+Fake Lightning Bolt
+Falmer Poison
+Familiar Visuals
+Fear
+Fear – Master of the Mind
+Feed Blood
+Fence
+Fire Barrier
+Fire breath
+Fire Damage
+Fire hazard
+Fire Rune
+Fire Storm 100
+Fire Storm 25
+Fire Storm 65
+Fireball
+Firebolt
+Firebolt Storm Alduin Death
+Firebolt Storm Spell
+FirestormBodyArtHolder
+Flame Cloak
+Flames
+Flaming Thrall Explosion
+Force Without Effort
+Fortified Combat Healing
+Fortified Healing
+Fortify Alchemy
+Fortify Alteration
+Fortify Archery
+Fortify Armor Perks
+Fortify Armor Rating
+Fortify Barter
+Fortify Block
+Fortify Blocking
+Fortify Bow Stagger
+Fortify Carry Weight
+Fortify Conjuration
+Fortify Destruction
+Fortify Enchanting
+Fortify Health
+Fortify Health – Master of the Mind
+Fortify Heavy Armor
+Fortify Illusion
+Fortify Light Armor
+Fortify Lockpicking
+Fortify Magicka
+Fortify Marksman
+Fortify One-Handed
+Fortify Persuasion
+Fortify Pickpocket
+Fortify Restoration
+Fortify Shouts
+Fortify Smithing
+Fortify Sneak
+Fortify Speechcraft
+Fortify Spells
+Fortify Stamina
+Fortify Stamina – Master of the Mind
+Fortify Two-Handed
+Fortify Unarmed Damage
+Frenzy
+Frenzy – Master of the Mind
+Friendly Fire
+Frost Barrier
+Frost Barrier IceWraith
+Frost breath
+Frost Cloak
+Frost Damage
+Frost Rune
+Frostbite
+Frostbite Venom
+Full Moon Rising
+Fury
+Fury – Master of the Mind
+Generic Damage
+Generic Frost Damage
+Ghost Extra Damage Effect
+Ghost Visuals
+Ghost Visuals Fire
+Ghost Visuals Nightingale
+Ghost Visuals Storm
+Ghostveil
+Graybeard Teach FX
+Guardian Circle
+Guardian Circle Restore Health
+Hag’s End Drain Health
+Hag’s End Soul Trap
+Halldir’s Pacify
+Halldir’s Soul Trap
+Harmony
+Health regeneration
+Heavy Fire Damage
+Homecooked Meal
+Huntsman’s Prowess
+Hysteria
+Hysteria – Master of the Mind
+Ice Form
+Ice Hazard
+Ice Spike
+Ice Storm
+Ice Volley
+Ice Wraith Bite
+Ice Wraith FX Ability
+Icy Spear
+IllusionBodyArtHolder
+IllusionGreenBodyArtHolder
+Imperial Luck
+Incinerate
+Increased Magicka
+Instant Kill
+Insubstantial
+Intense Flames Fear
+Intense Flames Rout
+Invisibility
+Invisibility Phantom
+It Burns Hysteria
+J’zargo’s Flame Cloak
+Jzargo Flames
+Karliah’s Invisibility
+Knockdown Effect
+Konahrik’s Privilege
+Kyne’s Blessing
+Kyne’s Peace
+Kyne’s Peace 1
+Kyne’s Peace 2
+Kyne’s Peace 3
+Light Beam
+Light Damage
+Lightning Bolt
+Lightning Bolt Call Storm
+Lightning Storm
+LigningStormBodyArtHolder
+Lingering Damage Health
+Lingering Damage Magicka
+Lingering Damage Stamina
+Lingering Fire Damage
+Lover’s Comfort
+Lurker’s Cloak
+Lurker’s Shadow
+Magelight
+Magic Draugr FX
+Magicka Damage
+Makes Spell high priority for AI/Cast Once Only
+Marked for Death – Armor
+Marked for Death – Health
+Mass Charm – Master of the Mind
+Mayhem
+Mayhem – Master of the Mind
+Melee Damage
+Merchant
+Meridia’s Retribution
+MG08 Fireball
+MiddenTorch
+Modify Alteration
+Modify Conjuration
+Modify Destruction
+Modify Illusion
+Modify Restoration
+MS08Paralyze
+Muffle
+My test effect for Self Effects
+Mystic Axe
+Mystic Bow
+Mystic Sword
+Night Eye
+Night Eye Dispel
+Night Stalker’s Footsteps
+Nightingale Shadow Ability
+Nightingale Shadow Mercer
+Nightingale Strife
+Nightingale Strife Mercer
+Nightingale Subterfuge
+Nightmare Visuals
+Nightstalker’s Footsteps
+Notched Pickaxe
+On Ice Paralyze
+Oppressive Butt
+Pacify
+Paralysis
+Paralyze
+ParalyzeMassBodyArtHolder
+Perk Impact Stagger
+Phantom Form
+Phantom Visuals
+Poison Damage
+Poison Gas
+Poison Spray
+Potency: Conjure Storm Atronach
+Psychic Agony
+Push Effect Middle
+Push Effect Strong
+Quick Shot
+Rally
+Rally – Master of the Mind
+Rally Secondary
+Random Werewolf Transformations
+Ravage Health
+Ravage Magicka
+Ravage Stamina
+Reanimate
+Reanimate Secondary Effects
+Reanimate Thrall
+Recover Magicka
+Red Eagle Fire Damage
+Red Eagle Turn Undead
+Reduced Health
+Reduced Lockpick & Pickpocket
+Reduced Magicka
+Reduced Magicka Regen
+Reduced Stamina
+Reduced Stamina Regen
+Reduced Weapon skills
+Reflect Blows
+Regenerate Health
+Regenerate Magicka
+Regenerate Stamina
+Repel Lesser Undead
+Repel Undead
+Resist Damage
+Resist Disease
+Resist Fire
+Resist Frost
+Resist Magic
+Resist Poison
+Resist Shock
+Rested
+Restore Health
+Restore Health Area
+Restore Health Blank
+Restore Magicka
+Restore Stamina
+Restore Stamina – Mystic
+Restore Stamina – Supernatural
+Restore Stamina Area
+RitualHealBodyArtHolder
+RitualReanimateBodyArtHolder
+Rout
+Rout – Master of the Mind
+Sailor’s Repose
+Script Effect
+Script Effect for AI use of Storm Call
+Self Pacify
+Septimus Vanish
+Serpent’s Spit
+Serpent’s Venom
+Set Alpha To Zero
+Shadow Warrior Invisibility
+Shadowcloak Invisibility
+Shadowcloak of Nocturnal
+Shield – Lesser
+Shield Charge Cloak Effect
+Shield Charge Knockback
+shieldChargeDamageStamina
+ShieldRitualCastBodyFX
+Shock Cloak
+Shock Damage
+Shock Damage Area
+Shock Hazard
+Shock Rune
+Shockwave
+Silvered
+Sinderion’s Serendipity
+Skeever Polymorph
+Slow
+Slow Time Effect
+Smithing Expertise
+Soul Trap
+Sovengarde effect
+Sparks
+Special Paralyze
+Spectral Assassin
+Speed Burst
+Spell Absorption
+Spider Bite
+Spider Control
+Spider Spit
+Spriggan Claw
+Spriggan Matron Swarm Spray
+Spriggan Swarm
+Spriggan Swarm Spray
+SprigganFX Ability
+SprigganMatronFX Ability
+Sprint Effect 1
+Sprint Effect 2
+Sprint Effect 3
+Staff of Magnus Effect
+Stagger Area Attack
+Stagger Area Attack Frost Atronach
+Stagger Attack
+Stagger Circle Protection
+Stagger Push
+Stamina Damage
+Steam breath
+Storm Call Effect 1
+Storm Call Effect 2
+Storm Call Effect 3
+Storm Call Effect AlduinDeath
+Storm Call Effect Self AlduinDeath
+Storm Call Fire Effect 3
+Storm Call Fire Effect Self 3
+Summon Arniel’s Shade
+Summon Dremora
+Summon Hero from Sovngarde
+Summon Subjugated Ghost
+Summon Unbound Dremora
+Summon Wolves 1
+Summon Wolves 2
+Summon Wolves 3
+SummonMassBodyArtHolder
+Telekinesis Ability Effect
+Telekinesis Effect
+Teleport In Effect
+Teleport Out Effect
+Teleportation
+The Atronach Stone
+The Fire Within
+The Lady: Recover Health
+The Lady: Recover Stamina
+The Lord: Damage Resist
+The Lord: Magic Resist
+The Lover Stone
+The Mage Stone
+The Ritual Stone
+The Shadow Stone
+The Steed Stone
+The Steed: Remove Encumbered Penalty
+The Thief Stone
+The Tower Stone
+The Warrior Stone
+Throw Voice Effect
+Thunderbolt
+Time Slowdown
+Torpor Effect
+Transmogrify
+Transmute Mineral Ore
+Trick Shot Disarm
+Turn Greater Undead
+Turn Lesser Undead
+Turn Raised Undead
+Turn Undead
+Turn Undead Push
+Unknown Effect
+Unrelenting Force Middle
+Unrelenting Force Strong
+Unrelenting Force Weak
+Unseal Door
+Vampire Fortify Dmg Resist
+Vampiric Invisibility
+Vampiric Strength
+Venomfang Poison
+Vision of the Tenth Eye
+Voice of the Sky
+Wabba Visuals
+Wabbajack
+Wabbajack Alt
+Waking Nightmare
+Wall of Storms
+Ward – Deflection
+Ward – Greater
+Ward – Lesser
+Ward – Steadfast
+Waterbreathing
+Waterwalking
+Weakness to Fire
+Weakness to Frost
+Weakness to Magic
+Weakness to Poison
+Weakness to Shock
+Weakness to Sunlight
+Well Rested
+Werewolf Fear Howl 1
+Werewolf Fear Howl 2
+Werewolf Fear Howl 3
+Werewolf Feed Health Restore
+Werewolf Knockback Effect
+Werewolf Victim Effect
+Windshear Bash Effect
+Wisp FX
+Wisp’s Kiss
+
+ENCHANTS
+Absorb Health
+Absorb Magicka
+Absorb Stamina
+Articulation
+Backstab
+Banish
+Banish Daedra
+Blessing of Akatosh
+Blessing of Arkay
+Blessing of Dibella
+Blessing of Julianos
+Blessing of Kynareth
+Blessing of Mara
+Blessing of Stendarr
+Blessing of Talos
+Blessing of Zenithar
+Bloodthorn
+Boethiah’s Embrace
+Bonus damage
+Bound Battleaxe FX
+Bound Bow FX
+Bound Sword FX
+Briarheart Geis
+Briarheart Lifeforce
+Bromjunaar’s Mystery
+Burning
+Calm
+Chain Lightning
+Charm
+Collector’s Touch
+Command Daedra
+Conjure Familiar
+Conjure Flame Atronach
+Conjure Frost Atronach
+Conjure Storm Atronach
+Courage
+Cursed Ring of Hircine
+DA10ReanimateEnch
+Dark Sacrifice
+Dawnbreaker
+Dragon Damage
+Dread Zombie
+Ebony Blade Enchantment
+Elemental Fury
+Elf Slayer
+Expel Daedra
+Fade Other
+Fear
+Featherlift Pockets
+Fiery Soul Trap
+Fire Damage
+Fire Rune
+Fireball
+Firebolt
+FireDamage
+Flames
+Foritfy all magic skills
+Fortify Alchemy
+Fortify Alteration
+Fortify Alteration & Magicka Regen
+Fortify Archery
+Fortify Barter
+Fortify Barter and One-Handed
+Fortify Block
+Fortify Carry Weight
+Fortify Conjuration
+Fortify Conjuration & Magicka Regen
+Fortify Destruction
+Fortify Destruction & Magicka Regen
+Fortify Healing Rate
+Fortify Health
+Fortify Heavy Armor
+Fortify HMS
+Fortify Illusion
+Fortify Illusion & Magicka Regen
+Fortify Light Armor
+Fortify Lockpicking
+Fortify Magicka
+Fortify Magicka and Magic Resist
+Fortify Magicka Rate
+Fortify Magicka Regen
+Fortify One-Handed
+Fortify Pickpocket
+Fortify Restoration
+Fortify Restoration & Magica Regen
+Fortify Smithing
+Fortify Sneak
+Fortify Sneak and Destruction
+Fortify Speech and One-H
+Fortify Stamina
+Fortify Stamina Regen
+Fortify Two-Handed
+Fortify Unarmed
+Frenzy
+Frost Damage
+Frost Rune
+Frostbite
+Frostfeed
+Fury
+Halldir’s Staff
+Heal Other
+Healing Hands
+Hidden Pockets
+Huntsman’s Prowess
+Ice Spike
+Ice Storm
+Ice Terror
+Icy Spear
+Improved Hidden Pockets
+Improved Nimble Fingers
+Improved Sly of Hand
+Improved Swindler’s Voice
+Incinerate
+Increased Magicka Regen
+Insubstantial
+Invisibility
+Keening’s Sting
+Konahrik’s Privilege
+Krosis’ Subterfuge
+Kyne’s Blessing
+Lightning Bolt
+Locksmith’s Touch
+Mace of Molag Bal Enchantment
+Magelight
+Magicka Damage
+Mass Charm
+Mehrunes Razor Enchantment
+Muffle
+Muted Step
+Nightingale’s Grasp
+Nightingale’s Halo
+Nightingale’s Resolve
+Nightingale’s Storm
+Nightingale’s Stride
+Nightingale’s Talon
+Nimble Fingers
+Notched Pickaxe
+Oppressive Butt
+Otar’s Will
+Paralysis
+Paralyze
+Poison Damage
+Poison Gas
+Power of Saarthal
+Predator’s Grace
+Raise Zombie
+Rally
+Reanimate Corpse
+Red Eagle
+Repel Lesser Undead
+Repel Undead
+Resist Disease
+Resist Fire
+Resist Frost
+Resist Magic
+Resist Poison
+Resist Shock
+Revenant
+Ring of Hircine
+Ring of Namira
+Rout
+Scholastic Mastery
+Shadowsight
+Shadowstrength
+Shadowstrike
+Shadowthrive
+Shock Damage
+Shock Rune
+Silent Moons Enchant
+Skein of Magnus
+Slow
+Sly of Hand
+Soul Trap
+Sparks
+Spellbreaker
+Spider Control
+Sprint Hammer
+Staff of Magnus Effect
+Stagger
+Stamina Damage
+Storyteller’s Touch
+Subterfuge
+Summon Dremora
+Summon Ghost
+Swindler’s Voice
+Terror
+Throw Voice Shout
+Thunderbolt
+Turn Greater Undead
+Turn Lesser Undead
+Turn Undead
+Vampire Hood
+Vokun’s Mastery
+Volendrung Enchantment
+Volsung’s Guile
+Wabbajack Damage
+Waking Nightmare
+Wall Of Flames
+Wall Of Frost
+Wall Of Storms
+Waterbreathing
+Windshear Bash
+
+SPELLS
+Adrenaline Rush
+Agent of Dibella
+Agent of Mara
+Alduin regen
+Ancestor’s Wrath
+Ancient Knowledge
+Animal Allegiance
+Apprentice Stone
+Arniel’s Convection
+Ataxia
+Atronach
+Atronach Thrall Healing
+Aura Whisper
+Avoid Death
+Bane of the Undead
+Banish Daedra
+Bash Disarm
+Battle Cry
+Beast Form
+Become Ethereal
+Berserker Rage
+Bleeding
+Bleeding Damage
+Blessing of Akatosh
+Blessing of Arkay
+Blessing of Dibella
+Blessing of Julianos
+Blessing of Kynareth
+Blessing of Mara
+Blessing of Nocturnal
+Blessing of Stendarr
+Blessing of Talos
+Blessing of Zenithar
+Blizzard
+Boethiah’s Blessing
+Bone Break Fever
+Bound Battleaxe
+Bound Bow
+Bound Sword
+Brain Rot
+Brelyna’s Practice Spell
+Briarheart Lifeforce
+Call Dragon – all
+Call Of The Wild
+Call of Valor
+Call of Valor FX
+Call to Arms
+Calm
+Candlelight
+Chain Lightning
+Champion of the Night
+Chaurus effects
+Chaurus Poison
+Chill Touch
+Circle of Protection
+Clairvoyance
+Claws
+Clear Skies
+Clear Skies 1
+Clear Skies 2
+Clear Skies 3
+Close Wounds
+College Practice Ward
+Combat Heal Rate
+Command Animal
+Command Daedra
+Conjure Dragon Priest
+Conjure Dremora Lord
+Conjure Familiar
+Conjure Flame Atronach
+Conjure Frost Atronach
+Conjure Storm Atronach
+Courage
+Crab claws
+Cure all diseases before changing
+Custom Fit
+Dark Souls Health Bonus
+Dead Thrall
+Detect Dead
+Detect Life
+Disarm
+Dismay – Faas
+Dismay – Maar
+Dismay – Ru
+Dispel Night Eye
+Dragon abilities
+Dragon Bite
+Dragon Infusion
+Dragon Priest abilities
+Dragonhide
+Dragonrend
+Dragonskin
+Dragonslayer’s Blessing
+Drain Life
+Drain Magicka
+Draugr Abilities
+Draugr Frost Cloak
+Dread Cloak
+Dread Zombie
+Dreamsteal
+Dual Flurry 30
+Dual Flurry 50
+Dwarven centurion abilities
+Dwarven resistances
+Dwarven Spider abilities
+Ebony Blade Alert
+Ebonyflesh
+Elemental Fury
+Elemental Protection
+Embrace of Shadows
+Equilibrium
+Eternal Spirit
+Expel Daedra
+Extra Pockets
+Fade Other
+Fake Dragonrend
+Falmer Abilities
+Falmer Poison
+Familiar Flame Cloak
+Familiar Visuals
+Fast Healing
+Fear
+Fence
+Fire
+Fire Ball
+Fire Breath
+Fire Dragon abilities
+Fire Rune
+Fire Storm
+Fire Storm Cloak
+Fireball
+FireballTEST
+Firebolt
+Firebolt Storm
+Firemage flame resistance
+Fists of Steel
+Flame Atronach abilities
+Flame Atronach Attack
+Flame Cloak
+Flame Thrall
+Flames
+Flaming Familiar
+Flaming Familiar Explosion
+Flightlessness
+Force Without Effort
+Fortify Magicka
+Frenzy
+Frost
+Frost Atronach abilities
+Frost Atronach Attack
+Frost atronach fx
+Frost Breath
+Frost Cloak
+Frost Cloak Freeze
+Frost Dragon abilities
+Frost Rune
+Frost Thrall
+Frost Troll abilities
+Frostbite
+Frostbite Poison
+Frozen Corpse Abilities
+Full Moon Rising
+Fury
+FX Visuals for Summoned Hero
+Ghost Ability
+Giant Snow Spider abilities
+Giant Stomp
+Glow art for heavenly people
+Grand Healing
+Greater Magic Resistance
+Greater Ward
+Guardian Circle
+Half damage
+Harmony
+Heal Other
+Healing
+Healing Hands
+Highborn
+Histskin
+Homecooked Meal
+Horker abilities
+Horse abilities
+Howl Of The Pack
+Hysteria
+Ice Bite
+Ice Cloak
+Ice Cloak Freeze
+Ice Form
+Ice Spike
+Ice Storm
+Ice Volley
+Ice Wolf abilities
+Ice Wraith abilities
+IceWraith fx abilities
+Icy Spear
+Imperial Luck
+Incinerate
+Invisibility
+Ironflesh
+J’zargo’s Flame Cloak
+Jyrik’s Blessing
+Karliah’s Invisibility
+kilkreathLightBeam
+Kyne’s Peace
+Large Snow Spider abilities
+Lesser Magic Resistance
+Lesser Recovery
+Lesser Shield
+Lesser Ward
+Lightning Bolt
+Lightning Cloak
+Lightning Cloak Drain
+Lightning Rune
+Lightning Storm
+Lover’s Comfort
+Magelight
+Magic Resistance
+Magicka Recovery 1
+Magicka Recovery 1.5
+Magicka Recovery 2
+Magicka Recovery 2.5
+Magicka Recovery 3
+Magicka Recovery 3.5
+Magicka Recovery 4
+Magicka Recovery 4.5
+Magicka Recovery 5
+Make Alpha Zero
+Mammoth abilities
+Marked for Death – Aus
+Marked for Death – Krii
+Marked for Death – Lun
+Mass Paralysis
+Matching Set
+Mayhem
+Merchant
+Meridia’s Light
+MG Time Freeze
+MG Time Teleport In Spell
+MG Time Teleport Out Spell
+mg07 dog Abilities
+Midden Torch
+Morokei Channel
+Mortal Wound
+MS08Paralysis
+Mudcrab abilities
+Muffle
+Muffled Movement
+Namira’s Blessing
+Necro Skeleton Ability
+Night Eye
+Night Stalker’s Footsteps
+Night Thief
+Nightingale Armor Full Set
+Nightingale Shadow Ability
+Nightingale Strife
+Nightingale Subterfuge
+Nightingale’s Shadow
+Nightmare Ability
+Nightstalker’s Footsteps
+Oakflesh
+Odahviing heal at low health
+Oppressive Fog
+Pacify
+Paralysis
+Paralyze
+Phantom Form – 3
+Poison Cloak
+Poison Gas
+Poisoner
+Polymorph Skeever
+Power Shot
+Prowler’s Profit
+Quick Reflexes
+QuickShot
+Raise Zombie
+Rally
+Rattles
+Reanimate
+Reanimate Corpse
+reanimate spell
+Recovery
+Reflect Blows
+Repel Lesser Undead
+Repel Undead
+Resist Disease
+Resist Disease and Poison
+Resist Fire
+Resist Frost
+Resist Poison
+Rested
+Resurrect
+Revenant
+Ring of Hircine
+Riposte
+Rockjoint
+Rout
+Sailor’s Repose
+Sanguinare Vampiris
+Scent Of Blood
+Self Pacify
+Septimus Vanish
+Shadow Warrior Invisibility
+Shadowcloak of Nocturnal
+Shadowmere Abilities
+Shield Charge
+Shock
+Shock Spit
+Shockwave
+Shrouded Armor Full Set
+Silence
+Sinderion’s Serendipity
+Skeleton Abilities
+Slow Time
+SlowTime
+Smithing Expertise
+Snakeblood
+Snow Bear abilities
+Snow Sabrecat abilities
+Snow Spider abilities
+Soul Trap
+Sparks
+Special Paralysis Ability
+Spectral Arrow
+Spriggan abilities
+Spriggan Call of the Wild
+Spriggan Heal
+Spriggan Matron abilities
+Spriggan Poison
+Spriggan Spray
+StaggerFun
+Steadfast Ward
+Steady Hand
+Steam breath
+Stoneflesh
+Storm Atronach abilities
+Storm Atronach Attack
+Storm Call – Bah
+Storm Call – Qo
+Storm Call – Strun
+Storm Call Lightning Bolt
+Storm Thrall
+Summon Arniel’s Shade
+Summon Portal
+Summon Spectral Assassin
+Summon Unbound Dremora
+Surefoot
+Tail Stagger
+Targe bleeding
+Telekinesis
+Telekinesis Ability
+Teleportation
+The Apprentice Stone
+The Atronach Stone
+The Fire Within
+The Gift of Charity
+The Lady Stone
+The Lord Stone
+The Lover Stone
+The Mage Stone
+The Ritual Stone
+The Serpent Stone
+The Shadow Stone
+The Steed Stone
+The Thief Stone
+The Tower Stone
+The Warrior Stone
+Throw Voice
+Thunderbolt
+Torch Fire
+Transmogrify
+Transmute
+TrickShot
+Troll abilities
+Turn Greater Undead
+Turn Lesser Undead
+Turn Undead
+Unrelenting Force – Fus
+Unrelenting Force – Fus Ro
+Unrelenting Force – Fus Ro Da
+Unseal Door
+Vampire Resistances
+Vampire Touch
+Vampire’s Seduction
+Vampire’s Servant
+Vampire’s Sight
+Vampiric Drain
+Vampiric Invisibility
+Vampiric Strength
+Venomfang Poison
+Vile Vapors
+Vision of the Tenth Eye
+Voice of the Emperor
+Voice of the Sky
+Wabba Ability
+Waking Nightmare
+Wall of Flames
+Wall of Frost
+Wall of Storms
+Warden’s Lash
+Warmaster Knockdown
+Waterbreathing
+Weakness to Fire
+Weakness to Sunlight
+Well Fitted
+Well Rested
+Werewolf Abilities
+Werewolf Claws
+Werewolf Feed
+Werewolf Feed Victim
+Whirlwind Sprint 1
+Whirlwind Sprint 2
+Whirlwind Sprint 3
+Wind Walker
+Windshear Bash Spell
+Wisp abilities
+Wisp’s Health Blessing
+Wisp’s Kiss
+Wisp’s Magicka Blessing
+Wisp’s Stamina Blessing
+Witbane
+Witchlight abilities
+Witchlight abilities

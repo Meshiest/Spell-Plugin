@@ -1,0 +1,17 @@
+name: mSpell
+main: com.meshiest.Core
+version: 0.0.1
+
+commands:
+   fly:
+      description: This command makes you fly for a time
+      usage: /<command> [time]
+   compile:
+      description: This command compiles your book and tells you its costs
+      usage: /<command>
+   spells:
+      description: This command tells you what spells are available
+      usage: /<command> [page]
+   spellInfo:
+      description: Tells you information about a spell, use /spells [page] for a list of spells
+      usage: /<command> [spell]
